@@ -7,9 +7,6 @@ This project focuses on predicting liver patient outcomes using machine learning
 ## Author
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramod-kusmude-115b1b285)
-
-## GitHub Metrics
-
 [![GitHub Followers](https://img.shields.io/github/followers/Pramod9222?label=Followers&style=social)](https://github.com/Pramod9222)
 [![GitHub Watchers](https://img.shields.io/github/watchers/Pramod9222/liver-patient-prediction-ML-Project?label=Watchers&style=social)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
 [![GitHub Stars](https://img.shields.io/github/stars/Pramod9222/liver-patient-prediction-ML-Project?style=social)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
