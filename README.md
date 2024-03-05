@@ -75,5 +75,3 @@ Fine-tuning: Further tune hyperparameters of Random Forest for potential perform
 Validation: Use cross-validation to assess the model's generalization performance.
 Ensemble Methods: Explore ensemble methods like model stacking or boosting for potential improvements.
 Interpretation: If model interpretability is crucial, consider Logistic Regression, but be aware that it may sacrifice some predictive performance.
-
-![Index]("D:\newonee\templates\indexss.png")
