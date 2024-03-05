@@ -1,6 +1,9 @@
 # liver-patient-prediction-ML-Project
 Liver Disease Prediction Using ML Models. This is a Machine Learning project predicting Liver Disease i also provide model deployment , Pramod kusmude
 
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramod-kusmude-115b1b285)
+
 Task 1 Data Exploration and Analysis :-
 Understanding the Data
 Identifying Data Quality Issues
