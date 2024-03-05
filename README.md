@@ -18,6 +18,7 @@ This project focuses on predicting liver patient outcomes using machine learning
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
 [![GitHub Issues](https://img.shields.io/github/issues/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/issues)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/issues?q=is%3Aissue+is%3Aclosed)
+
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/pulls)
 [![GitHub Closed PRs](https://img.shields.io/github/issues-pr-closed/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/pulls?q=is%3Apr+is%3Aclosed)
 [![HitCount](http://hits.dwyl.com/Pramod9222/liver-patient-prediction-ML-Project.svg)](http://hits.dwyl.com/Pramod9222/liver-patient-prediction-ML-Project)
