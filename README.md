@@ -3,6 +3,34 @@ Liver Disease Prediction Using ML Models. This is a Machine Learning project pre
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramod-kusmude-115b1b285)
+# Welcome to My Machine Learning Project
+
+This project focuses on predicting liver patient outcomes using machine learning.
+
+## Author
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramod-kusmude-115b1b285)
+
+## GitHub Metrics
+
+[![GitHub Followers](https://img.shields.io/github/followers/Pramod9222?label=Followers&style=social)](https://github.com/Pramod9222)
+[![GitHub Watchers](https://img.shields.io/github/watchers/Pramod9222/liver-patient-prediction-ML-Project?label=Watchers&style=social)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
+[![GitHub Stars](https://img.shields.io/github/stars/Pramod9222/liver-patient-prediction-ML-Project?style=social)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
+[![GitHub Forks](https://img.shields.io/github/forks/Pramod9222/liver-patient-prediction-ML-Project?style=social)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
+
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project)
+
+[![GitHub Issues](https://img.shields.io/github/issues/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/issues)
+[![GitHub Closed Issues](https://img.shields.io/github/issues-closed/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/pulls)
+[![GitHub Closed PRs](https://img.shields.io/github/issues-pr-closed/Pramod9222/liver-patient-prediction-ML-Project)](https://github.com/Pramod9222/liver-patient-prediction-ML-Project/pulls?q=is%3Apr+is%3Aclosed)
+
+[![HitCount](http://hits.dwyl.com/Pramod9222/liver-patient-prediction-ML-Project.svg)](http://hits.dwyl.com/Pramod9222/liver-patient-prediction-ML-Project)
+
+
+
 
 Task 1 Data Exploration and Analysis :-
 Understanding the Data
